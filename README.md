@@ -1,49 +1,50 @@
 <h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
-<h3 align="center">Azure DevOps Engineer | Cloud • CI/CD • Automation</h3>
+<h3 align="center">Azure DevOps Engineer | Cloud • CI/CD • Docker • Kubernetes • Automation</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an **Azure Cloud & DevOps Engineer** specializing in **Cloud Migration Projects**, **CI/CD automation**, and **deployment workflows** using **Azure DevOps (YAML)**.  
-At **DXC Technology**, I work on a large-scale enterprise modernization program where I:
+I am an **Azure Cloud & DevOps Engineer** specializing in **cloud migration**, **CI/CD automation**, and **deployment workflows** using **Azure DevOps**.  
+At **DXC Technology**, I contribute to a large-scale enterprise modernization program where I:
 
-- Build and maintain **CI/CD pipelines** for legacy-to-cloud migration  
-- Architect **deployment workflows** using YAML templates  
-- Manage **secure, segregated Azure cloud environments**  
-- Support modernization initiatives using **Docker, Kubernetes, and IaC**  
+- Build & maintain **CI/CD pipelines** for legacy-to-cloud migration  
+- Create **automated deployment workflows** with reusable YAML templates  
+- Manage **segregated Azure cloud environments** (App Service, SQL, Storage, Functions, VMs)  
+- Work with **Docker, Containerization, and Kubernetes (AKS)**  
+- Improve cloud automation and optimize deployment processes  
 
-My career began in **full-stack development**, which gives me a developer-centric mindset—allowing me to engineer DevOps workflows that are efficient, scalable, and developer-friendly.
+My career began in **full-stack engineering**, which helps me design DevOps workflows that align well with developer needs and modern delivery practices.
 
-I’m deeply focused on:
+I focus heavily on:
 - Cloud automation  
 - Infrastructure as Code (IaC)  
-- CI/CD optimization  
-- Cloud-native development  
-- DevOps best practices  
+- Kubernetes (AKS)  
+- CI/CD and DevOps engineering  
+- Cloud-native observability  
+- Deployment reliability and performance  
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
-### ☁️ **Cloud & DevOps**
+### ☁️ **Cloud & DevOps (Primary Focus)**
 - Microsoft Azure  
 - Azure DevOps (Repos, Pipelines, Boards, Artifacts)  
-- CI/CD (YAML)  
+- CI/CD Pipelines (YAML)  
 - Docker / Containerization  
 - Kubernetes (AKS)  
 - GitHub Actions  
-- Infrastructure as Code (Terraform)  
+- Terraform  
 - Linux  
-- Monitoring & Logging (App Insights, Grafana)  
+- Monitoring & Logging: Application Insights, Grafana  
 
-### 🧱 **Backend & Database**
+### 🧩 **Backend & Frontend (From Previous Full-Stack Experience)**
+*(Useful for understanding end-to-end delivery workflows — not my current focus)*  
 - ASP.NET Core  
 - Node.js / Express  
 - REST APIs  
 - SQL Server / MySQL  
-
-### 🎨 **Frontend**
 - React.js  
 - Next.js  
 - JavaScript / TypeScript  
@@ -51,13 +52,15 @@ I’m deeply focused on:
 
 ---
 
-## 🚀 Featured Project – **Framely (Cloud-Deployed E-commerce Platform)**  
-A full-stack optical e-commerce platform with:
+## 🚀 Featured Project – **Framely (Cloud-Deployed E-commerce Platform)**
+
+A full-stack Optical E-commerce system deployed entirely on **Microsoft Azure**, featuring:
 
 - **ASP.NET Core Web API** backend  
-- **Next.js Customer Storefront** + **Next.js Admin Dashboard**  
-- Fully deployed on **Azure App Service**, **Azure Static Web Apps**, **Azure SQL**, and **Blob Storage**  
-- Automated CI/CD via **GitHub Actions**  
+- **Next.js Storefront + Next.js Admin Dashboard**  
+- Azure App Service, Azure SQL, Azure Static Web Apps  
+- Blob Storage for images  
+- **GitHub Actions CI/CD** with multi-environment pipelines  
 
 🔗 **Customer Storefront:**  
 https://orange-wave-06841fe00.1.azurestaticapps.net/
@@ -70,12 +73,11 @@ https://github.com/MrSharma151/Framely
 
 ---
 
-## 📈 What I’m Currently Learning
-- Azure DevOps advanced automation (YAML templating)  
-- AKS deployments  
-- Terraform modules  
-- Cloud-native architecture patterns  
-- Azure Monitoring & Logging  
+## 📈 Currently Learning
+- Kubernetes (AKS) production-grade deployments  
+- Terraform modules and IaC best practices  
+- Azure DevOps pipeline templating  
+- Cloud-native monitoring (logs, metrics, alerts)  
 
 ---
 
@@ -85,11 +87,10 @@ https://github.com/MrSharma151/Framely
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 📧 Email: **rhs.rohitsharma@gmail.com**  
-- 🌐 Portfolio (coming soon)
+- 💼 LinkedIn: **https://www.linkedin.com/in/rohit-sharma-b320121a3/**  
+- 📧 Email: **rhs.rohitsharma@gmail.com**
 
 ---
 
 ## ⭐ Thanks for visiting!
-Feel free to explore my repositories — I’m always open to collaboration on DevOps, Cloud, or Azure-related projects.
+Feel free to explore my repositories — I’m always open to collaborating on DevOps, Cloud, or Azure projects.
