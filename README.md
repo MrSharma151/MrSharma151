@@ -1,96 +1,190 @@
 <h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
-<h3 align="center">Azure DevOps Engineer | Cloud • CI/CD • Docker • Kubernetes • Automation</h3>
+<h3 align="center">DevOps Engineer | Azure Cloud | Kubernetes (AKS) | CI/CD Automation | Platform Engineering</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohit-sharma-b320121a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Sharma-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="https://rohitsharma.org/">
+    <img src="https://img.shields.io/badge/Portfolio-rohitsharma.org-black?style=flat-square&logo=google-chrome">
+  </a>
+  <a href="https://github.com/MrSharma151">
+    <img src="https://img.shields.io/badge/GitHub-MrSharma151-black?style=flat-square&logo=github">
+  </a>
+  <img src="https://img.shields.io/badge/DevOps-Azure%20%7C%20AKS%20%7C%20CI%2FCD-success?style=flat-square">
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an **Azure Cloud & DevOps Engineer** specializing in **cloud migration**, **CI/CD automation**, and **deployment workflows** using **Azure DevOps**.  
-At **DXC Technology**, I contribute to a large-scale enterprise modernization program where I:
+I am a **DevOps Engineer** working on **Azure cloud platforms**, with hands-on experience in **enterprise cloud migration, CI/CD automation, and containerized application delivery**.
 
-- Build & maintain **CI/CD pipelines** for legacy-to-cloud migration  
-- Create **automated deployment workflows** with reusable YAML templates  
-- Manage **segregated Azure cloud environments** (App Service, SQL, Storage, Functions, VMs)  
-- Work with **Docker, Containerization, and Kubernetes (AKS)**  
-- Improve cloud automation and optimize deployment processes  
+In my current role at **DXC Technology**, I support the modernization of legacy systems by enabling **reliable, scalable, and automated deployment workflows** across cloud environments. My work focuses on building practical DevOps solutions that improve delivery consistency, reduce manual effort, and support engineering teams at scale.
 
-My career began in **full-stack engineering**, which helps me design DevOps workflows that align well with developer needs and modern delivery practices.
+I bring a strong **application engineering background** from earlier experience in **full-stack development**, which helps me design **developer-friendly DevOps workflows** and understand application behavior end-to-end.
 
-I focus heavily on:
-- Cloud automation  
-- Infrastructure as Code (IaC)  
-- Kubernetes (AKS)  
-- CI/CD and DevOps engineering  
-- Cloud-native observability  
-- Deployment reliability and performance  
+I am particularly interested in **cloud-native architectures, Kubernetes, Infrastructure as Code, and GitOps-driven delivery models**.
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
-### ☁️ **Cloud & DevOps (Primary Focus)**
-- Microsoft Azure  
-- Azure DevOps (Repos, Pipelines, Boards, Artifacts)  
-- CI/CD Pipelines (YAML)  
-- Docker / Containerization  
-- Kubernetes (AKS)  
-- GitHub Actions  
-- Terraform  
-- Linux  
-- Monitoring & Logging: Application Insights, Grafana  
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-AKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+</p>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
+<h3 align="center">🚀 DevOps Engineer | Azure Cloud | Kubernetes (AKS) | CI/CD Automation | Platform Engineering</h3>
 
-### 🧩 **Backend & Frontend (From Previous Full-Stack Experience)**
-*(Useful for understanding end-to-end delivery workflows — not my current focus)*  
-- ASP.NET Core  
-- Node.js / Express  
-- REST APIs  
-- SQL Server / MySQL  
-- React.js  
-- Next.js  
-- JavaScript / TypeScript  
-- HTML / CSS  
-
----
-
-## 🚀 Featured Project – **Framely (Cloud-Deployed E-commerce Platform)**
-
-A full-stack Optical E-commerce system deployed entirely on **Microsoft Azure**, featuring:
-
-- **ASP.NET Core Web API** backend  
-- **Next.js Storefront + Next.js Admin Dashboard**  
-- Azure App Service, Azure SQL, Azure Static Web Apps  
-- Blob Storage for images  
-- **GitHub Actions CI/CD** with multi-environment pipelines  
-
-🔗 **Customer Storefront:**  
-https://orange-wave-06841fe00.1.azurestaticapps.net/
-
-🔗 **Admin Dashboard (Restricted):**  
-https://gentle-glacier-044690e00.1.azurestaticapps.net/
-
-🔗 **GitHub Repository:**  
-https://github.com/MrSharma151/Framely
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohit-sharma-b320121a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Sharma-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://rohitsharma.org/">
+    <img src="https://img.shields.io/badge/Portfolio-rohitsharma.org-black?style=for-the-badge&logo=google-chrome">
+  </a>
+  <a href="https://github.com/MrSharma151">
+    <img src="https://img.shields.io/badge/GitHub-MrSharma151-black?style=for-the-badge&logo=github">
+  </a>
+  <img src="https://img.shields.io/badge/DevOps-Azure%20%7C%20AKS%20%7C%20CI%2FCD-success?style=for-the-badge&logo=azuredevops">
+</p>
 
 ---
 
-## 📈 Currently Learning
-- Kubernetes (AKS) production-grade deployments  
-- Terraform modules and IaC best practices  
-- Azure DevOps pipeline templating  
-- Cloud-native monitoring (logs, metrics, alerts)  
+## 👨‍💻 About Me
+I am a **DevOps Engineer** working on **Azure cloud platforms**, with hands-on experience in **enterprise cloud migration, CI/CD automation, and containerized application delivery**.
+
+💼 At **DXC Technology**, I modernize legacy systems by enabling **scalable, automated deployment workflows** across cloud environments.  
+⚡ My background in **full-stack development** helps me design **developer-friendly DevOps workflows** with end-to-end application understanding.  
+🌐 Passionate about **cloud-native architectures, Kubernetes, Infrastructure as Code, and GitOps-driven delivery models**.
+
+---
+
+## 🧰 Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+---
+
+## 🚀 Featured Project – **Framely – Mega DevOps AKS Project**
+A **production-style, end-to-end DevOps & GitOps implementation** on **Azure Kubernetes Service (AKS)**, re-architected into a **cloud-native, Kubernetes-first delivery model**.
+
+### 🔑 Key Highlights
+- Clear separation of **CI, CD, and Infrastructure**
+- **Jenkins** → Continuous Integration only  
+- **Git** → Single source of truth  
+- **Argo CD** → GitOps-based Continuous Delivery  
+- **Terraform** → Azure infra provisioning (AKS, networking, monitoring, registry)  
+- **Kustomize** → Environment-specific deployments (**stage → prod**)  
+- **Prometheus & Grafana** → Observability  
+- Fully validated locally with **Docker Compose, KIND, Jenkins, Argo CD**
+
+📂 **Repository:** [Framely Mega DevOps AKS](https://github.com/MrSharma151/framely-mega-devops-aks)
+
+---
+
+## 📦 Previous Cloud Project – Framely (PaaS-Based)
+A full-stack optical e-commerce platform deployed on **Azure PaaS services**, serving as the **baseline cloud implementation** before Kubernetes re-architecture.
+
+- ASP.NET Core Web API + Next.js (Customer & Admin)  
+- Azure App Service, Azure SQL, Blob Storage  
+- GitHub Actions–based CI/CD  
+
+📂 **Repository:** [Framely PaaS](https://github.com/MrSharma151/Framely)
 
 ---
 
 ## 📜 Certifications
-- **Microsoft Certified: Azure Fundamentals (AZ-900)**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft-AZ--900-blue?style=for-the-badge&logo=microsoft&logoColor=white">
+</p>
 
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: **https://www.linkedin.com/in/rohit-sharma-b320121a3/**  
-- 📧 Email: **rhs.rohitsharma@gmail.com**
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohit-sharma-b320121a3/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://rohitsharma.org"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome"></a>
+  <a href="mailto:rhs.rohitsharma@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-## ⭐ Thanks for visiting!
-Feel free to explore my repositories — I’m always open to collaborating on DevOps, Cloud, or Azure projects.
+⭐ **Thanks for visiting!**  
+Feel free to explore my repositories — I’m always open to **DevOps, Cloud, Kubernetes, and platform engineering discussions**.
+---
+
+## 🚀 Featured Project – **Framely – Mega DevOps AKS Project**
+
+A **production-style, end-to-end DevOps & GitOps implementation** on **Azure Kubernetes Service (AKS)**, built by re-architecting an existing application into a **cloud-native, Kubernetes-first delivery model**.
+
+### Key Highlights:
+- Designed a **clear separation of CI, CD, and Infrastructure**
+- **Jenkins** used strictly for **Continuous Integration**
+- **Git as the single source of truth**
+- **Argo CD** as the **only deployment mechanism** (GitOps-based CD)
+- **Terraform** for Azure infrastructure provisioning (AKS, networking, monitoring, registry)
+- **Kustomize** for environment-specific Kubernetes deployments (**stage → prod via Git**)
+- **No manual kubectl apply** for application workloads
+- **Prometheus & Grafana** for observability
+- Fully validated locally using **Docker Compose, KIND, Jenkins, and Argo CD**
+
+🔗 **GitHub Repository:**  
+https://github.com/MrSharma151/framely-mega-devops-aks
+
+---
+
+## 📦 Previous Cloud Project – Framely (PaaS-Based)
+
+A full-stack optical e-commerce platform deployed on **Azure PaaS services**, serving as the **baseline cloud implementation** before Kubernetes re-architecture.
+
+- ASP.NET Core Web API + Next.js (Customer & Admin)
+- Azure App Service, Azure SQL, Blob Storage
+- GitHub Actions–based CI/CD
+
+🔗 **Repository:** https://github.com/MrSharma151/Framely
+
+---
+
+## 📜 Certifications
+<p>
+  <img src="https://img.shields.io/badge/Microsoft-AZ--900-blue?style=flat-square&logo=microsoft&logoColor=white">
+</p>
+
+---
+
+## 🤝 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/rohit-sharma-b320121a3/
+- 🌐 Portfolio: https://rohitsharma.org
+- 📧 Email: rhs.rohitsharma@gmail.com
+
+---
+
+⭐ Thanks for visiting!  
+Feel free to explore my repositories — I’m always interested in **DevOps, Cloud, Kubernetes, and platform engineering discussions**.
