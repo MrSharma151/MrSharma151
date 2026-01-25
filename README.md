@@ -2,17 +2,18 @@
 <h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
 <h3 align="center">🚀 DevOps Engineer | Azure Cloud | Kubernetes (AKS) | CI/CD Automation | Platform Engineering</h3>
 
+<!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-sharma-b320121a3/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Sharma-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Sharma-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://rohitsharma.org/">
-    <img src="https://img.shields.io/badge/Portfolio-rohitsharma.org-black?style=for-the-badge&logo=google-chrome">
+    <img src="https://img.shields.io/badge/Portfolio-rohitsharma.org-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <a href="https://github.com/MrSharma151">
-    <img src="https://img.shields.io/badge/GitHub-MrSharma151-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-MrSharma151-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <img src="https://img.shields.io/badge/DevOps-Azure%20%7C%20AKS%20%7C%20CI%2FCD-success?style=for-the-badge&logo=azuredevops">
+  <img src="https://img.shields.io/badge/DevOps-Azure%20%7C%20AKS%20%7C%20CI%2FCD-4CAF50?style=for-the-badge&logo=azuredevops&logoColor=white">
 </p>
 
 ---
@@ -75,18 +76,21 @@ A full-stack optical e-commerce platform deployed on **Azure PaaS services**, se
 
 ## 📜 Certifications
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft-AZ--900-blue?style=for-the-badge&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft-AZ--900-2D89EF?style=for-the-badge&logo=microsoft&logoColor=white">
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohit-sharma-b320121a3/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://rohitsharma.org"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome"></a>
-  <a href="mailto:rhs.rohitsharma@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rohit-sharma-b320121a3/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://rohitsharma.org"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="mailto:rhs.rohitsharma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
+
+⭐ **Thanks for visiting!**  
+Feel free to explore my repositories — I’m always open to **DevOps, Cloud, Kubernetes, and platform engineering discussions**.
 
 
