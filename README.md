@@ -59,7 +59,7 @@ A **production-style, end-to-end DevOps & GitOps implementation** on **Azure Kub
 - **Prometheus & Grafana** → Observability  
 - Fully validated locally with **Docker Compose, KIND, Jenkins, Argo CD**
 
-📂 **Repository:** [Framely Mega DevOps AKS](https://github.com/MrSharma151/framely-mega-devops-aks)
+📂 **Repository:** [Framely Mega DevOps AKS](https://github.com/MrSharma151/framely-mega-devops-aks-project)
 
 ---
 
