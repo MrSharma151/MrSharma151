@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
-<h3 align="center">🚀 DevOps Engineer | Azure Cloud | Kubernetes (AKS) | CI/CD Automation | Platform Engineering</h3>
+<h3 align="center">🚀 DevOps Engineer | Azure Cloud | Kubernetes (AKS) | CI/CD Automation | DXC Technology</h3>
 
 <!-- Social Badges -->
 <p align="center">
