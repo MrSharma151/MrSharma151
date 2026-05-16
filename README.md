@@ -18,14 +18,17 @@
 
 ---
 
-## 👨‍💻 About Me
-I am a **DevOps Engineer** with hands-on experience in **cloud platforms (Azure, AWS familiarity), CI/CD automation, containerized application delivery, Kubernetes, and Infrastructure as Code**.
+👨‍💻 About Me
 
-💼 At **DXC Technology**, I contribute to large-scale enterprise modernization initiatives by enabling **reliable, scalable, and automated deployment workflows** across cloud environments using **cloud-agnostic DevOps practices**.  
-⚙️ I work across the full delivery lifecycle — from build pipelines to Kubernetes-based deployments — with a strong focus on **automation, system reliability, and platform consistency**.  
-🧠 My background in **application engineering** helps me design **developer-friendly DevOps workflows** with an end-to-end understanding of how applications run in production.
+I am a DevOps Engineer focused on building scalable, automated, and reliable cloud-native infrastructure and delivery platforms across startup and enterprise environments.
 
-I’m particularly interested in **cloud-native architectures, Kubernetes platforms, GitOps delivery models, Infrastructure as Code, and automation**.
+💼 Currently at SpatialChat, working on cloud infrastructure, Kubernetes workloads, CI/CD automation, observability, and production operations for scalable real-time applications. Previously worked at DXC Technology on enterprise cloud modernization initiatives involving containerized deployments, Infrastructure as Code, and multi-environment release automation.
+
+⚙️ Hands-on experience with Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, GitLab CI/CD, ArgoCD, Linux, and cloud platforms including Azure, AWS, and GCP.
+
+🧠 With a background in full-stack development, I understand application behavior end-to-end, helping me design practical DevOps workflows aligned with scalability, developer experience, and production reliability.
+
+I’m particularly interested in Kubernetes, Platform Engineering, GitOps, Infrastructure as Code, Cloud Engineering, and scalable DevOps automation.
 
 ---
 
